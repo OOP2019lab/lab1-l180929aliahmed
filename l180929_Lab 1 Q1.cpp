@@ -18,8 +18,6 @@ int _tmain(int argc, _TCHAR* argv[])
 				cout<<i;
 			else if(i>n && z<(2*n-i+1))  
 				cout<<i;
-			else if(i>n && i-n>=2*n-z)
-				cout<<i;
 			else
 				cout<<"*";
 		}
