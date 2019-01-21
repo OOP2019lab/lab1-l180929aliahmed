@@ -1,0 +1,6 @@
+Numbers in ascending order are:
+1
+3
+3
+6
+48
